@@ -1,0 +1,67 @@
+{
+  "events": [
+    {
+      "id": "evt-001",
+      "title": "Team Standup",
+      "participants": [
+        "Alice",
+        "Bob",
+        "Charlie"
+      ],
+      "start_time": "2025-04-17T09:00:00",
+      "end_time": "2025-04-17T09:30:00",
+      "location": "Zoom"
+    },
+    {
+      "id": "evt-002",
+      "title": "Call with Sarah",
+      "participants": [
+        "Sarah",
+        "User"
+      ],
+      "start_time": "2025-04-17T11:00:00",
+      "end_time": "2025-04-17T11:45:00",
+      "location": "Google Meet"
+    },
+    {
+      "id": "evt-003",
+      "title": "Lunch Break",
+      "participants": [
+        "User"
+      ],
+      "start_time": "2025-04-17T13:00:00",
+      "end_time": "2025-04-17T14:00:00",
+      "location": "Cafeteria"
+    },
+    {
+      "id": "evt-004",
+      "title": "Strategy Session",
+      "participants": [
+        "User"
+      ],
+      "start_time": "2025-04-17T11:45:00",
+      "end_time": "2025-04-17T12:45:00",
+      "location": "TBD"
+    },
+    {
+      "id": "evt-005",
+      "title": "Film Narration with Johnny Depp",
+      "participants": [
+        "User"
+      ],
+      "start_time": "2025-04-17T14:00:00",
+      "end_time": "2025-04-17T16:00:00",
+      "location": "TBD"
+    },
+    {
+      "id": "evt-006",
+      "title": "Sun Bath",
+      "participants": [
+        "User"
+      ],
+      "start_time": "2025-12-12T10:00:00",
+      "end_time": "2025-12-12T11:00:00",
+      "location": "TBD"
+    }
+  ]
+}

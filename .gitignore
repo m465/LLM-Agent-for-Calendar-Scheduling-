@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+schedular/
+
+# IDEs
+.vscode/
+.idea/
+
+# Database
+# Assuming we don't want to commit the local database state if it changes
+# If you want to commit the initial seed, remove this line.
+# calendar.json
