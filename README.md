@@ -1,3 +1,4 @@
+
 # LLM Agent for Calendar Scheduling
 
 This project implements an AI-powered calendar agent capable of checking schedules, finding meeting times, and blocking time slots using natural language queries. It uses OpenAI's GPT models effectively to function as an intelligent assistant.
@@ -61,3 +62,6 @@ This project implements an AI-powered calendar agent capable of checking schedul
 - `agent.py`: Core logic for the LLM agent, handling tool calling and conversation flow.
 - `tools.py`: Implementation of calendar tools (check schedule, block time, etc.) and file operations.
 - `calendar.json`: Local JSON-based database for storing calendar events.
+=======
+# LLM-Agent-for-Calendar-Scheduling-
+
