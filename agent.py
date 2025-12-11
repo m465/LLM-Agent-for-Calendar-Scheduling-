@@ -44,16 +44,16 @@ def run_calendar_agent(user_query: str):
         {"role": "user", "content": user_query}
     ]
 
-    # 1. First API Call
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=messages,
-        tools=TOOLS_SCHEMA,
-        tool_choice="auto"
-    )
+    # # 1. First API Call
+    # response = client.chat.completions.create(
+    #     model="gpt-4o-mini",
+    #     messages=messages,
+    #     tools=TOOLS_SCHEMA,
+    #     tool_choice="auto"
+    # )
 
-    response_msg = response.choices[0].message
-    tool_calls = response_msg.tool_calls
+    # response_msg = response.choices[0].message
+    # tool_calls = response_msg.tool_calls
 
     # 2. Check if tool was called
     while True:

@@ -62,6 +62,16 @@
       "start_time": "2025-12-12T10:00:00",
       "end_time": "2025-12-12T11:00:00",
       "location": "TBD"
+    },
+    {
+      "id": "evt-007",
+      "title": "Meeting with Bill Gates: Creation of vaccine to infertile next generation to control population",
+      "participants": [
+        "User"
+      ],
+      "start_time": "2025-12-12T17:00:00",
+      "end_time": "2025-12-12T18:00:00",
+      "location": "TBD"
     }
   ]
 }
